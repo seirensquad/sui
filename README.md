@@ -3,6 +3,12 @@
 세이렌 스쿼드(Seiren Squad)에서 번역한 수이 백서입니다.
 아직 초안이며, 수정 및 보완검토가 필요합니다. [이슈](https://github.com/seirensquad/sui/issues)와 [pull request](https://github.com/seirensquad/sui/pulls)를 통해 더 나은 번역이 될 수 있도록 많은 참여 부탁 드립니다.
 
+# 세이렌 스쿼드
+Seiren Squad는 2018년 설립된 블록체인 연구기업 Numbers 프로젝트팀의 다른 이름입니다. Seiren Squad는 Sui가 그리는 생태계에 공감하고, 저희의 경험과 개발력이 그곳에 기여할 수
+있기를 소망하며 개발에 매진하고 있습니다. 대한민국의 훌륭한 개발력을 가진 많은 프로젝트 팀과 함께 공감하기를 소망합니다.
+
+# 링크
+
 원본 링크 : https://docs.sui.io/paper/sui.pdf
 번역본 링크 : [sui_whitepaper_korean_version1.pdf](sui_whitepaper_korean_version1.pdf)
 
