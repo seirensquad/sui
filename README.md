@@ -11,8 +11,8 @@ Seiren Squad는 2018년 설립된 블록체인 연구기업 Numbers 프로젝트
 
 # 링크
 
-* 원본 링크 : https://docs.sui.io/paper/sui.pdf
-* 번역본 링크 : [sui_whitepaper_korean_version1.pdf](sui_whitepaper_korean_version1.pdf)
+* 원본 링크 : [sui.pdf](https://docs.sui.io/paper/sui.pdf)
+* 번역본 링크 : [sui_whitepaper_korean_version1.pdf](https://www.seiren.xyz/sui-korean.pdf)
 
 # 용어 통일
 
